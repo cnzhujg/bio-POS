@@ -1,7 +1,7 @@
 # coding:utf-8
 
 """
-构造NER训练集，实体序列标注，训练BERT+BiLSTM+CRF
+构造NER训练集，实体序列标注
 """
 
 # 进行标注的内容 路径
